@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose');      
 const CryptoWallet = require("../model/db");
 const allTrasaction = require('../model/transaction')
 const otpGenerator = require('otp-generator')
